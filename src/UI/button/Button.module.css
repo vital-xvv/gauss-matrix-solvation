@@ -1,0 +1,14 @@
+.button {
+    border: 1px solid #333;
+    border-radius: 3px;
+    font-weight: 500;
+    padding: 0 7px;
+    margin: 0 8px;
+    cursor: pointer;
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
